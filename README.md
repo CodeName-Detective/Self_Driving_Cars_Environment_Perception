@@ -1,5 +1,8 @@
 # Environment Perception for Self-Driving Cars
 
+![Environment Perception for Self-Driving Cars](media/cover.gif)
+
+
 This project demonstrates key components of environment perception in self-driving cars using computer vision and 3D data processing techniques. It focuses on detecting and understanding the drivable space, ground plane estimation, and semantic segmentation from sensor data.
 
 ---
